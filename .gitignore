@@ -1,0 +1,6 @@
+*.log
+error3.log
+/dir/
+test.xlsx                     
+firstdoc.docx
+seconddoc.docx
